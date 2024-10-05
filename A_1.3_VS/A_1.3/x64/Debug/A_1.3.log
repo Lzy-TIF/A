@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Administrator\source\repos\A\A_1.3\main.cpp(36,19): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\Administrator\source\repos\A\A_1.3\main.cpp(36,21): warning C4309: “初始化”: 截断常量值
+C:\Users\Administrator\source\repos\A\A_1.3\main.cpp(505,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\A\A_1.3\main.cpp(598,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Administrator\source\repos\A\A_1.3\main.cpp(32,12): warning C4101: “m”: 未引用的局部变量
+  A_1.3.vcxproj -> C:\Users\Administrator\source\repos\A\A_1.3\x64\Debug\A_1.3.exe
